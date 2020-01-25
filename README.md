@@ -4,6 +4,7 @@ This is a simple webpage developed using:
 * HTML5
 * CSS3
 * Bootstrap
+* Google Font
 
 
 ### Screenshot
